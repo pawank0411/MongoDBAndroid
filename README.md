@@ -16,3 +16,4 @@ Things to do before running the app:
 
 ## References
 - [MongoDB Android SDK](https://docs.mongodb.com/realm/sdk/android/examples/mongodb-remote-access/)
+- [Realm Android SDK](https://docs.mongodb.com/realm/sdk/android/install/#std-label-android-install)
