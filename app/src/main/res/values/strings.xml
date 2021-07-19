@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">MongoDBAndroid</string>
+    <string name="name">Name</string>
+    <string name="sunlight_amount">Sunlight</string>
+    <string name="color_name">Color</string>
+    <string name="type">Type</string>
+    <string name="partition_ex_store_42_store_78_etc">Partition</string>
+    <string name="upload">Upload</string>
+    <string name="ex_full_partial">ex:full, partial</string>
+    <string name="ex_store_42_store_78_etc">ex: Store 42, Store 78, etc</string>
+    <string name="insert_multiple_entries">Insert multiple items</string>
+    <string name="insert_mul_text">Insert Item (Count:%1$d)</string>
 </resources>
