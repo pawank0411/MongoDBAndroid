@@ -1,4 +1,4 @@
-package com.example.model
+package com.example.mongodbandroid.model
 
 import org.bson.types.ObjectId
 

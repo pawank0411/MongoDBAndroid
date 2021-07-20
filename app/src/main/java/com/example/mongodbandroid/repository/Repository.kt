@@ -1,9 +1,9 @@
-package com.example.repository
+package com.example.mongodbandroid.repository
 
-import com.example.model.Plant
-import com.example.other.Constants.COLLECTIONS
-import com.example.other.Constants.DATABASE
-import com.example.other.Constants.MONGODB_SERVICE
+import com.example.mongodbandroid.model.Plant
+import com.example.mongodbandroid.other.Constants.COLLECTIONS
+import com.example.mongodbandroid.other.Constants.DATABASE
+import com.example.mongodbandroid.other.Constants.MONGODB_SERVICE
 import io.realm.mongodb.App
 import io.realm.mongodb.AppConfiguration
 import io.realm.mongodb.RealmResultTask

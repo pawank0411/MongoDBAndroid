@@ -3,11 +3,10 @@ package com.example.mongodbandroid.ui.home
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import com.example.model.Plant
-import com.example.other.Resource
-import com.example.repository.Repository
+import com.example.mongodbandroid.model.Plant
+import com.example.mongodbandroid.other.Resource
+import com.example.mongodbandroid.repository.Repository
 import dagger.hilt.android.lifecycle.HiltViewModel
-import org.bson.types.ObjectId
 import javax.inject.Inject
 
 @HiltViewModel

@@ -1,8 +1,8 @@
-package com.example.di
+package com.example.mongodbandroid.di
 
 import android.content.Context
 import com.example.mongodbandroid.BuildConfig
-import com.example.repository.Repository
+import com.example.mongodbandroid.repository.Repository
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

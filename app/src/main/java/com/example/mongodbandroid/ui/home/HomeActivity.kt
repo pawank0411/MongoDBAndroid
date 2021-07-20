@@ -6,10 +6,10 @@ import android.view.View.VISIBLE
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.ViewModelProvider
-import com.example.model.Plant
+import com.example.mongodbandroid.model.Plant
 import com.example.mongodbandroid.R
 import com.example.mongodbandroid.databinding.ActivityMainBinding
-import com.example.other.Status
+import com.example.mongodbandroid.other.Status
 import dagger.hilt.android.AndroidEntryPoint
 import org.bson.types.ObjectId
 

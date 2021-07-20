@@ -1,4 +1,4 @@
-package com.example.other
+package com.example.mongodbandroid.other
 
 object Constants {
     // REPLACE WITH YOUR DATABASE NAME
